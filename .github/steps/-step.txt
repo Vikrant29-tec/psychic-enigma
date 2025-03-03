@@ -1,1 +1,11 @@
-1
+
+public class Main
+{
+public static void main(String[] args) {
+int l,w,a;
+l=6;
+w=4;
+a=l*w;
+System.out.println(&quot;Area : &quot;+a);
+}
+}
